@@ -43,6 +43,7 @@ const gsapanime = () => {
   window.requestAnimationFrame(gsapanime);
 }
 // gsapanime();
+// new
 
 
 // ANIMATIONS
